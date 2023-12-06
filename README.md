@@ -14,6 +14,6 @@
 ##### Coil
 
 
-| image              | image               | image               |
-| ---------------------- | ---------------------- | ---------------------- |
-| ![Screenshot_20231204_135255](https://github.com/serkan-y38/Android-Paging-StackApiApp/assets/96957200/b36ae84c-e763-4c1f-9a98-4ae9132dc810) | ![Screenshot_20231204_135255](https://github.com/serkan-y38/Android-Paging-StackApiApp/assets/96957200/15c0500b-9c4d-4463-bb79-ae2463b69292) | ![Screenshot_20231204_135255](https://github.com/serkan-y38/Android-Paging-StackApiApp/assets/96957200/7cbdbf42-ebfb-4d8d-9c6f-cc25b8797cc6) |
+| image              | image               | image               | image               |
+| ---------------------- | ---------------------- | ---------------------- | ---------------------- |
+| ![Screenshot_20231204_135255](https://github.com/serkan-y38/Android-Paging-StackApiApp/assets/96957200/b36ae84c-e763-4c1f-9a98-4ae9132dc810) | ![Screenshot_20231204_135255](https://github.com/serkan-y38/Android-Paging-StackApiApp/assets/96957200/15c0500b-9c4d-4463-bb79-ae2463b69292) | ![Screenshot_20231204_135255](https://github.com/serkan-y38/Android-Paging-StackApiApp/assets/96957200/7cbdbf42-ebfb-4d8d-9c6f-cc25b8797cc6) | ![Screenshot_20231204_135255](https://github.com/serkan-y38/Android-Paging-StackApiApp/assets/96957200/f74fe9d1-d6aa-4b82-b7c7-08adbef83c93) |
